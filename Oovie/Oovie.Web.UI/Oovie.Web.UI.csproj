@@ -119,6 +119,12 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Covers\game_of_thrones.jpg" />
+    <Content Include="Content\Covers\hobbit.jpg" />
+    <Content Include="Content\Covers\les_miserables.jpg" />
+    <Content Include="Content\Covers\rockshow.jpg" />
+    <Content Include="Content\Covers\skyfall.jpg" />
+    <Content Include="Content\Covers\twilight.jpg" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
